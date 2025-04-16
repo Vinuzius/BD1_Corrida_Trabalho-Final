@@ -1,0 +1,41 @@
+﻿PESSOA (GENERALIZAÇÃO — total e sobreposto )
+* CPF (PK?)
+* RG
+* ENDEREÇO (composto?)
+* data de nascimento
+MOTORISTA
+* CNH
+* conta corrente (acho que conta como atributo)
+
+
+PASSAGEIRO
+* nro cartão de crédito
+
+
+ATENDENTE
+* formação escolar
+
+
+
+
+
+
+VEICULO
+* renavam (PK)
+* Data de compra
+* marca
+* modelo
+* ano
+* preço
+* característica (enum)
+
+
+
+
+
+
+SEGURADORA
+* CNPJ (PK)
+* nome
+* telefone
+* cep
