@@ -10,7 +10,8 @@ Também é possivel cadastrar uma seguradora para o veículo do motorista
 - Normalização
 - DDL 
 - Povoamento de Tabelas
-
+![Modelo Conceitual](https://github.com/Vinuzius/BD1_Corrida_Trabalho-Final/blob/main/Modelo%20Conceitual.png)
+![Modelo Lógico](https://github.com/Vinuzius/BD1_Corrida_Trabalho-Final/blob/main/diagrama_do_modelo.jpeg)
 ## Atividade Avaliativa
 
 Este projeto é uma atividade avaliativa da disciplina de Princípios de Banco de Dados do curso de Sistemas de Informação da Universidade Federal Fluminense (UFF).
